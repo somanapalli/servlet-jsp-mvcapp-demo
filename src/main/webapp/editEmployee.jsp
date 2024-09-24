@@ -9,7 +9,7 @@
 </head>
 <body>
     <div class="container">
-        <h1 class="mt-5">Edit Employee</h1>
+        <h1 class="mt-5">Edit Employeee</h1>
         <form action="employees" method="post">
             <div class="form-group">
                 <label for="name">Name:</label>
